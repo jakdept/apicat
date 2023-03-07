@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/jakdept/cliTricks v0.0.0-20190612221626-3738d898fb64
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
+	golang.org/x/net v0.7.0
 )
 
 require (
